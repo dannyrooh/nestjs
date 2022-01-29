@@ -35,7 +35,7 @@ cd ./nestjs
 git status
 ~~~
 
-##🚀Criando o primeiro projeto  em NestJS
+## 🚀Criando o primeiro projeto  em NestJS
 
 No terminal execute
 ~~~
