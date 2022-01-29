@@ -9,7 +9,7 @@
 * [VSCode] <https://code.visualstudio.com/download>
 
 
-##Criando o projeto no Github
+## Criando o projeto no Github
 
 Entre no seu gibhub, e faça a criação de um novo repositório.
 
