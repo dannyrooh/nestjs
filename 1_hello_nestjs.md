@@ -1,7 +1,7 @@
-#Introdução ao NestJS
+# Introdução ao NestJS
 <hr>
 
-##Requisitos
+## Requisitos
 
 * [Node] <https://nodejs.org/pt-br/download/>
 * NPM
@@ -21,7 +21,7 @@ Este projeto deve ser criado como **public**, nome de **nestjs**. Em ***Initiali
   * Add .gitignore  (.gitignore template: Node) 
 
 
-##Clonando o repositório
+## Clonando o repositório
 
 O próximo passo é clonar o repositório do git na sua máquina,
 para isso abra o cmd do windows, powerShel ou VSCode.
@@ -98,7 +98,7 @@ No projeto no github, vá no menu Settings, e no lado esquerdo em Deploy keys, c
 
 ## Fazendo o primeiro push
 
-Vamos para o diretório raiz  "/nestjs" para adicionar o diretorio criado para o primeiro exemplo *1.hello-world*
+Vamos para o diretório raiz  "/nestjs" para adicionar o diretório criado para o primeiro exemplo *1.hello-world*
 
 ~~~
 git add .
